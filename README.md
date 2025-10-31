@@ -10,7 +10,7 @@ Project Details
 
 LIVE DEMO 
 View the live project here (once GitHub Pages is enabled):  
-https://github.com/Ayla-sky/My-first-FreeCodeCamp-Project---Survey-Form-.git 
+https://ayla-sky.github.io/My-first-FreeCodeCamp-Project---Survey-Form-/
 
 What I Learned
 - How to structure a form using `<form>` and `<input>` elements  
