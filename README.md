@@ -21,4 +21,4 @@ What I Learned
 How to Run Locally
 1.Clone the repository or download the files  
 2.Open `index.html` in your browser  
-3.Fill out the form and interact with it
+3.Fill out the form and interact 
